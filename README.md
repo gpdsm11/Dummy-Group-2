@@ -2,4 +2,4 @@
 Dummy Git
 
 Testing conflict resolving using Git
-Adding an extra line below to test the conflicts
+###Adding an extra line below to test the conflicts here###
